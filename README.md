@@ -19,7 +19,7 @@
 
 1. **Clone the repository:**
    bash
-   git clone [https://github.com/YOUR_USERNAME/anon-stream.git](https://github.com/YOUR_USERNAME/anon-stream.git)
+   git clone [https://github.com/YOUR_USERNAME/anon-stream.git](https://github.com/sanskrati035/anon-stream.git)
    cd anon-stream
 2.  **Install Dependencies:**
 Bash
