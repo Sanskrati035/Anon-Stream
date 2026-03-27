@@ -22,14 +22,12 @@
    git clone [https://github.com/YOUR_USERNAME/anon-stream.git](https://github.com/sanskrati035/anon-stream.git)
    cd anon-stream
 2.  **Install Dependencies:**
-Bash
 pip install -r requirements.txt
 3. **Install Virtual Camera Driver:**
 Download and extract the Unity Capture driver.
 Go to the Install folder, right-click Install.bat, and Run as Administrator.
 4.  **Run the Engine:**
-Bash
-python main.py
+ python main.py
 
 **How to Use:**
 
